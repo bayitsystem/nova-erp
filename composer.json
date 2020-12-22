@@ -4,8 +4,9 @@
     "keywords": [
         "laravel",
         "nova",
-        "cmdev",
-        "module-generator"
+        "erp",
+        "crm",
+        "nova-erp"
     ],
     "license": "MIT",
     "require": {

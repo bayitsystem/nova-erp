@@ -17,7 +17,7 @@ class BanckAccount extends Resource
      *
      * @var string
      */
-    public static $category = 'ERP';
+    public static $group = 'Erp';
 
     /**
      * The model the resource corresponds to.

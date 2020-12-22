@@ -30,7 +30,13 @@ use Laravel\Nova\Http\Requests\NovaRequest;
 
 class Invoice extends Resource
 {
-    public static $category = 'ERP';
+    /**
+     * The logical group associated with the resource.
+     *
+     * @var string
+     */
+    public static $group = 'Erp';
+
     /**
      * The model the resource corresponds to.
      *
